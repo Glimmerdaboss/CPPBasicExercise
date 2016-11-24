@@ -1,0 +1,6 @@
+c:\users\ald\documents\visual studio 2015\Projects\Ude_switch\Ude_switch\bin\Debug\Ude_switch.exe.config
+c:\users\ald\documents\visual studio 2015\Projects\Ude_switch\Ude_switch\bin\Debug\Ude_switch.exe
+c:\users\ald\documents\visual studio 2015\Projects\Ude_switch\Ude_switch\bin\Debug\Ude_switch.pdb
+c:\users\ald\documents\visual studio 2015\Projects\Ude_switch\Ude_switch\obj\Debug\Ude_switch.csprojResolveAssemblyReference.cache
+c:\users\ald\documents\visual studio 2015\Projects\Ude_switch\Ude_switch\obj\Debug\Ude_switch.exe
+c:\users\ald\documents\visual studio 2015\Projects\Ude_switch\Ude_switch\obj\Debug\Ude_switch.pdb
